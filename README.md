@@ -1,34 +1,54 @@
 # Superstore Sales Analysis
 
-This report describes a study that analyzed data to find the best-performing products, regions, categories, and customer groups for Superstore. The goal is to help Superstore make more money and stand out from competitors by using the findings from the analysis.
+## Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
 
-## Business Objectives:
 
-- How can we optimize our profits?
-- What are the emerging trends that we can identify?
-- How can we take these insights to build recommendations?
-- What are the best products, regions, categories, and customer segments for the Superstore to target or avoid in order to increase profitability?
 
-## Dataset:
+## Project Summary
 
-The data is publicly available through Kaggle under [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+This project analyzes sales data from Superstore to identify trends and patterns that can be used to improve profitability. The goal is to help Superstore make data-driven decisions to:
 
-- Contains 9995 rows with 9994 being pure data and the other one row being the column headers.
-- It spans from the 3rd of January 2014 (the first order date) to the 5th of January 2018 (the last shipping date).
-- Data includes records of 793 customers.
-- The dataset contains 21 columns:
-  - Row ID, Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Postal Code, City, State, Country, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, and Profit.
+- **Increase profits:** Identify the most profitable products, regions, categories, and customer segments.
+- **Target the right customers:** Develop targeted marketing strategies to reach high-value customers.
+- **Optimize inventory management:** Track sales trends to anticipate future demand and avoid stockouts.
 
-## Methodology
+## Data Source
 
-We'll adhere to the six steps of Data Analysis:
+The data for this project is publicly available from Kaggle: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-1. **Ask: Defining the Business Problem**: Identify the most profitable products, regions, categories, and customer segments to target and optimize profitability.
-2. **Prepare: Data Assessment**: Utilize the publicly available Superstore dataset from Kaggle, encompassing sales data from 2014 to 2018 for 793 customers across 21 product categories. While the data might not be the most recent, it serves as a valuable resource for analysis. We'll leverage Excel for initial cleaning tasks.
-3. **Process: Data Cleaning and Formatting**: Ensure data consistency by:
-   - Identifying Missing Values: Utilizing conditional formatting to highlight and address any missing data.
-   - Removing Duplicates: Verifying for duplicate entries using Excel functionalities.
-   - Formatting Dates and Currencies: Formatting Order Date, Ship Date, Sales, and Profit for accurate analysis.
-4. **Analyze**: Employing SQL for in-depth data manipulation and analysis to uncover:
-   - Profitability by Product, Category, Region, and Customer Segment: Analyze sales and profit margins to identify the most profitable areas.
-   - Sales Trends: Investigate sales trends over time to predict future demand and optimize inventory management.
+The dataset includes sales information from Superstore between January 3rd, 2014, and January 5th, 2018.
+
+## Key Findings
+
+- Sales and profits increased year-over-year, with the highest performance in 2017.
+- The Western region generates the most sales and profits.
+- California and New York have the highest total sales and profits, but other states like Indiana and Minnesota boast higher profit margins.
+- Technology leads in total sales, but Office Supplies has a slightly higher profit margin.
+- The Consumer segment generates the most profit, while the Home Office segment has the highest profit margin.
+- The company has a customer base of at least 793 distinct customers, with California having the most customers.
+- Customer TC-20980 is the top spender in the rewards program.
+
+## Next Steps
+
+1. Analyze product cost structure and profit margins for different categories.
+2. Explore reasons behind low sales and profits for Office Supplies in some regions.
+3. Investigate what products or services drive sales within the Home Office segment for potential replication in other segments.
+4. Analyze customer behavior and buying patterns to identify opportunities for targeted marketing campaigns.
+5. Visualize these insights in Excel:
+- Create charts and graphs to represent trends in sales, profits, and customer behavior. Some examples include:
+  - Line charts to show sales and profit trends over time.
+  - Bar charts to compare sales and profits across different regions, categories, or customer segments.
+  - Pie charts to illustrate the distribution of sales or profits among different categories or segments.
+- Use conditional formatting to highlight cells with significant values or variations.
+- Consider creating pivot tables to easily explore and summarize the data from different perspectives.
+
+
+#
+#### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
+
+- Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
+- Date: 26/04/2024
+- Place: Pakistan, Karachi
+
+
+
