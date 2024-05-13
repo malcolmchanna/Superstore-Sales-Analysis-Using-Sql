@@ -2,7 +2,13 @@
 
 ## Created by - Muzamil Channa @ Aspiring Data Analyst [Linkedin Profile](https://www.linkedin.com/in/muzamil-channa-a2216a175/)
 
+## Table of Contents
 
+- [Project Summary](#project-summary)
+- [Data Source](#data-source)
+- [Key Findings](#key-findings)
+- [Next Steps](#next-steps)
+- [Visualization Suggestions](#visualization-suggestions)
 
 ## Project Summary
 
