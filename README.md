@@ -8,7 +8,6 @@
 - [Data Source](#data-source)
 - [Key Findings](#key-findings)
 - [Next Steps](#next-steps)
-- [Visualization Suggestions](#visualization-suggestions)
 
 ## Project Summary
 
