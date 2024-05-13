@@ -52,7 +52,7 @@ The dataset includes sales information from Superstore between January 3rd, 2014
 #### Don't forget to give a star to this project because it motivates me, and please follow me on [LinkedIn](https://www.linkedin.com/in/muzamil-channa-a2216a175/). Also, please consider me for any internship or entry-level data analyst role. I need a job or internship even though it's free or paid. Thanks in Advance.
 
 - Created & Presented by – Muzamil Channa @ Aspiring Data Analyst
-- Date: 26/04/2024
+- Date: 13/05/2024
 - Place: Pakistan, Karachi
 
 
